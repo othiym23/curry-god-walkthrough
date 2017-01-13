@@ -1,0 +1,150 @@
+001	Good knife	2	0	2	0	None	None		198
+002	Good knife	3	0	3	0	None	None		198
+003	Very sharp knife	3	0	3	0	None	None		279
+004	Ultra-cut knife	4	0	4	0	None	None		333
+005	Wazamono knife	4	0	4	0	None	None		387
+006	Fork	3	0	0	0	None	None		54	20 4	Forest Oboro
+007	Sharp fork	3	0	0	0	None	None		117
+008	Sharp fork	4	0	0	0	None	None		225
+009	History strongest fork	4	0	0	0	None	None		360
+010	Supernatural fork	5	0	1	0	None	None		522
+011	Esupineru	7	0	5	0	None	Critical		Forty		Atchino volcano
+012	D spinel Fang	7	0	5	0	None	None		81
+013	D spinel Blade	7	0	5	0	None	None		135
+014	D spinel Dill	7	0	5	0	None	None		306
+015	D spinel Lover Lumpur	8	0	5	0	None	None		558
+016	Sword of beasts	5	0	0	0	None	Shishitokuko		144		Atchino volcano
+017	Ken breaks of beasts	6	0	0	0	None	None		252
+018	Sword of King beasts	7	0	0	0	None	None		387
+019	Beasts King of Ken breaks	8	0	0	0	None	None		486
+020	Shinkenger of King beasts	9	0	0	0	None	None		666
+021	F-Yvon sword of LV1	4	0	0	0	None	None		27
+022	F-Yvon sword of LV2	4	0	0	0	None	None		31
+023	F-Yvon sword of LV3	4	0	1	0	None	None		Forty
+024	F-Yvon sword of LV4	5	0	2	0	None	None		54
+025	F-Yvon sword of LV5	5	0	2	0	None	Handle with care		72
+026	Ken De Kai LV1	10	-2	2	0	None	None		279
+027	Ken De Kai LV2	12	-3	2	0	None	None		387
+028	Ken De Kai LV3	14	-4	2	0	None	None		522
+029	Ken De Kai LV4	16	-5	2	0	None	None		666
+030	Ken De Kai LV5	18	-6	5	0	None	None		819
+031	WE Ad Blade	7	0	4	0	None	Immortality Tokuko		72	32	Kachikochin cave
+032	Kano Blade	7	0	7	0	None	None		126
+033	Berukana Blade	8	0	8	0	None	None		225
+034	Hagar Blade	8	0	12	0	None	None		414
+035	Tay Was Blade	8	0	14	0	None	None	Body activity	630
+036	Icicle saber	1	0	1	0	None	Sword of ice		99		Forest Hiesugi ancient ruins Madaderu
+037	Ultra icicle saber	3	0	3	0	None	None		144
+038	Love cycle edge	5	0	5	0	None	None		279
+039	Diamond Dust	7	0	7	0	None	None	Ice strengthening	414
+040	Absolute Zero	9	0	9	0	None	None		594
+041	Mysterious sword	8	0	11	0	None	Paralysis attack		702
+042	Ultra-mysterious sword	9	0	11	0	None	None		909
+043	Ma訶 mysterious sword	10	0	11	0	None	None		1179
+044	World wonder treasured sword	10	0	11	0	None	None		1386
+045	Space mysterious sword	10	0	11	0	None	None		1710
+046	Natasodo of flame	5	0	4	0	None	Sword of flame		414		Forest of bamboo steamer Atchino volcano
+047	Natasodo of intense flame	5	0	4	0	None	None	Flame strengthening	558
+048	Natasodo of explosive flame	6	0	4	0	None	None		666
+049	Natasodo roar flame	7	0	4	0	None	None		819
+050	Natasodo of prominence	7	0	4	0	None	None		954
+051	Little sword of Biribiri	10	0	4	0	None	Sword of lightning		144
+052	Sword of normally Biribiri	10	0	4	0	None	None		306
+053	Sword of medium Biribiri	10	0	4	0	None	None		486
+054	Sword of large Biribiri	10	0	4	0	None	None		702
+055	Sword of ultra Biribiri	10	0	4	0	None	None		864
+056	Amateur cooking Hitodama	3	0	12	0	None	Concentration		594
+057	The familiar cuisine Hitodama	4	0	12	0	None	None		774
+058	Amazing cuisine Hitodama	5	0	12	0	None	None		999
+059	Strongest cuisine Hitodama	6	0	12	0	None	None		1224
+060	Professional cooking Hitodama	7	0	12	0	None	None		1494
+061	Tsutakiri round	8	0	3	0	None	Plant suicide		Ninety		Forest dim      Kachikochin cave        Atchino volcano
+062	Core-Tsutakiri round	8	0	9	0	None	None		144
+063	New Tsutakiri round	9	0	12	0	None	None		279
+064	Shin Tsutakiri round	10	0	15	0	None	None		387
+065	God-Tsutakiri round	11	0	18	0	None	None		522
+066	Bourgeois sword	1	0	0	0	None	None		150
+067	Bourgeois a Sword	2	0	0	0	None	None		300
+068	Bourgeois of Blade	3	0	0	0	None	None		450
+069	Bourgeois a saber	4	0	0	0	None	None		600
+070	Bourgeois cutter	5	0	0	0	None	None		750
+071	Sword of mystery	11	0	0	0	None	Mashirubetokuko		Ninety
+072	Sword of a little strong mystery	11	0	0	0	None	None		135
+073	Sword of decent strong mystery	11	0	0	0	None	None		225
+074	Sword of strong mystery	11	0	0	0	None	None		333
+075	Sword of ultra-strong mystery	12	0	0	0	None	None		486
+076	Oversized lance	5	0	0	0	None	Defense force +3		45	20	Forest Oboro
+077	Oversized Lancer	6	0	0	0	None	None		81
+078	Oversized Rapier	6	0	0	0	None	None		126
+079	Oversized Lancer Rapier	7	0	0	0	None	None		225
+080	Oversized Schwarz	7	0	0	0	None	None		333
+081	Sword of Ouka	3	2	0	0	None	Front 3-way		117		Kachikochin cave
+082	Wazamono Ouka sword of	3	4	0	0	None	None		225
+083	Sword of good Wazamono Ouka	3	7	0	0	None	None		360
+084	Owazamono Ouka sword of	3	9	0	0	None	None		450
+085	Sword of top Owazamono Ouka	3	12	0	0	None	None		630
+086	Blue Ōdachi	18	-2	0	0	None	Front 3 trout		225
+087	Choi Kata blue sword	20	-2	1	0	None	None		306
+088	Barikata blue Ōdachi	20	-2	2	0	None	None		486
+089	Ultra-Katai blue Ōdachi	20	-2	3	0	None	None		702
+090	Sturdy blue Ōdachi	20	-2	4	0	None	None		954
+091	Newcomer of sword	1	0	1	0	None	Continuous attack		414
+092	Sword of master craftsman	1	0	1	0	None	None		558
+093	Flowing of sword	1	0	1	0	None	None		738
+094	Phantom sword	1	0	1	0	None	None		909
+095	Heaven and earth sword	1	0	1	0	None	None		1089
+096	Osha Rapier	4	0	16	0	None	Sword of light		72		Forest of bamboo steamer        Atchino volcano
+097	Medium Osha Rapier	4	0	16	0	None	None		126
+098	Above Osha Rapier	5	0	16	0	None	None		225
+099	Finest Osha Rapier	5	0	16	0	None	None		360
+100	Best Osha Rapier	6	0	16	0	None	None	Strengthening ultra-light	486
+101	Poison Dagger	2	0	0	0	None	Poison attack		1089
+102	STRONG Poison Dagger	3	0	0	0	None	None		1332
+103	Tough Poison Dagger	3	0	0	0	None	None		1710
+104	Painful poison dagger	3	0	0	0	None	None		1890
+105	Position Geki Poison Dagger	4	0	0	0	None	None		2394
+106	Serious of Kurisunaga	1	0	20	0	None	HP drain		198		Forest Hiesugi ancient ruins Madaderu
+107	Deeply of Kurisunaga	2	0	20 2	0	None	None		558
+108	Kurisunaga of Fukachi	3	0	20 4	0	None	None		306
+109	Kurisunaga of abyss	4	0	27	0	None	None		360
+110	Profound of Kurisunaga	5	0	Thirty	0	None	None		414
+111	Spear of 5 fork	10	0	0	0	None	Sleep attack		108		Atchino volcano
+112	Spear-breaks of 5 fork	10	0	0	0	None	None		198
+113	Spear-pole of the 5 fork	10	0	0	0	None	None		360
+114	Spear of New 5 fork	11	0	0	0	None	None		558
+115	Spear of God-5 fork	11	0	0	0	None	None		774
+116	Bad fork	8	0	1	0	None	Aquatic Tokuko		54
+117	Evil fork	8	0	2	0	None	None		81
+118	Devil fork	8	0	4	1	None	None		117
+119	Great Devil fork	8	0	5	2	None	None		198
+120	Demo Nick fork	8	0	8	3	None	None		360
+121	Sealed sword	13	0	9	0	None	Sealed attack		198		Atchino volcano
+122	Sealed sword-breaks	13	0	12	0	None	None		333
+123	Sealed sword-Commandment	13	0	14	0	None	None		486
+124	Sealed sword Kai	13	0	16	0	None	None		630
+125	Sealed sword-world	13	0	19	0	None	None		864
+126	Kitchen knife of black iron	5	0	8	0	None	Sword of darkness		144
+127	Knife of beautiful black iron	5	0	8	0	None	None		252
+128	Knife of nice black iron	5	0	8	0	None	None		387
+129	Kitchen knife shiny black iron	8	0	8	0	None	None		522
+130	Knife too strong black iron	8	0	8	0	None	None		702
+131	Baotou Tsukkomi	2	0	0	0	None	Handling Caution		144
+132	Retrospective tsukkomi Baotou	4	0	0	0	None	None		225
+133	Baotou good old Tsukkomi	4	0	0	0	None	None		387
+134	Now old tsukkomi to Baotou	6	0	0	0	None	None		522
+135	Baotou Seriously Tsukkomi	6	0	0	0	None	None		666
+136	Choco Baa the first run	2	0	2	0	None	Dragon tribe Tokuko		54
+137	Chocolate Baa 2 eyes	2	0	4	0	None	None		144
+138	Choco Baa The third	2	0	5	0	None	None		414
+139	Choco Baa 4 eyes	2	0	7	0	None	None		774
+140	Choco Baa the 5th	2	0	11	0	None	None		1224
+141	Dress pin	1	0	0	0	None	Handling Caution		3114		Chara theater
+142	The first one refers to	1	0	0	0	None	None	Key points butt	3519
+143	One refers to the sudden	1	0	0	0	None	None		3924
+144	One refers to the fatal	1	0	0	0	None	None		4374
+145	One refers to the deadly	1	0	0	0	None	None		4824
+146	Tsunasodo	4	0	0	0	None	None		9		Ancient ruins Madaderu
+147	Ike~tsu! Tsunasodo	4	0	0	0	None	None	Before and after attack	13
+148	Hatarake~tsu! Tsunasodo	4	0	0	0	None	None		18
+149	Sasare~tsu! Tsunasodo	4	0	0	0	None	None		20 2
+150	The Todoroke~tsu to sea! Tsunasodo	4	0	0	0	None	None		27
